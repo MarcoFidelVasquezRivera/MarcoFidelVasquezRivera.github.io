@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Marco Vásquez"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  copyright = "&copy; 2024 Marco Vásquez. All Rights Reserved."
+
+  [author]
+#   name = "Marco Vásquez"
+    image = "img/MarcoVasquez.jpg" 
+    headline = "Software Systems Engineer"
+#   bio = "A little bit about you"
+   links = [
+      { email = "mailto:marco.f.vasquez1@gmail.com" },
+#     { link = "https://link-to-some-website.com/" },
+      { github = "https://github.com/MarcoFidelVasquezRivera" },
+      { linkedin = "https://www.linkedin.com/in/marco-fidel-vasquez-rivera" }
+    ]
