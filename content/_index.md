@@ -7,4 +7,4 @@ Hello, I am Marco Vásquez, a Software Systems Engineer with great passion for b
 
 # About me
 
-I am a recently graduated Software Systems Engineer from ICESI University. Experienced in the development of artificial intelligence models and Java backend development with cloud infrastructure, I have successfully implemented machine learning algorithms for various applications. Additionally, my expertise in Java backend development has allowed me to design robust and scalable systems that meet the demands of modern software solutions.
+I am a graduated Software Systems Engineer from ICESI University. Experienced in the development of artificial intelligence models and Java backend development with cloud infrastructure, I have successfully implemented machine learning algorithms for various applications. Additionally, my expertise in Java backend development has allowed me to design robust and scalable systems that meet the demands of modern software solutions.
