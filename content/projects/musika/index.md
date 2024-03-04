@@ -1,5 +1,5 @@
 ---
-title: MusIkA
+title: MusIkA (grade project)
 draft: false
 series_order: 3
 ---
